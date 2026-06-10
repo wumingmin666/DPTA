@@ -1,0 +1,15 @@
+# pack-refs with: peeled fully-peeled sorted 
+13fb8ab9c8fec5972714e443daf2cb4b01027678 refs/remotes/origin/dev
+8c4d9dc503dc8e327bec8147e8dc97124052f693 refs/remotes/origin/main
+1e5372e993c17955d3545983e0346d5f717cac2a refs/remotes/origin/new_config
+1e5372e993c17955d3545983e0346d5f717cac2a refs/remotes/origin/tutorials
+6b52f81c07999bce2c6b2485c6e969ea8491be4d refs/remotes/origin/yolov6_face
+84f115c4e57856ab63417fb9b781db88fe10ccf1 refs/tags/v0.1.0
+e482e3a17c502592752f59ba37b953f41cfce71a refs/tags/v0.1.1
+0b48313dc757a26ad3087aa17f0991833bd7cc91 refs/tags/v0.1.2
+178b0bf3ffec1353923460670bcbafccc15121cf refs/tags/v0.1.3
+27487fd587398348d59eb8c40af740cabee6b7fe refs/tags/v0.2.0
+b0cf0732412d9d7a69f5b7fb9368dab8be6983cc refs/tags/v0.3.0
+e62c8c4593702d23e5a75d940d9158aa4ea418ae refs/tags/v0.4.0
+dc85144fab20a970341550794857a2f2f9b11564 refs/tags/v0.5.0
+8c4d9dc503dc8e327bec8147e8dc97124052f693 refs/tags/v0.6.0
